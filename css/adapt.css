@@ -1,0 +1,120 @@
+@media (max-width: 1100px) {
+	.LogoLine {
+    width: 20%;
+	}
+	.Language{
+		width: 30%;
+	}
+	.DateTime{
+		margin-left: 33%;
+	}
+	.HeaderDown nav {
+	    display: flex;
+	    justify-content: space-around;
+	}
+	.NavMenu > ul{
+		justify-content: space-around;
+	}
+	.NavLI1 > a{
+		padding: 18px 0 18px 0;	
+		width: 150px;
+	}
+	.NavLI2 > a{
+		padding: 6px 0 6px 0;
+	}
+	.NavLI3 > a{
+		padding: 6px 0 6px 0;	
+	}
+	.NavLI4 > a{
+		padding: 18px 0 18px 0;
+		width: 150px;	
+	}
+	.NavLI5 > a{
+		padding: 18px 0 18px 0;
+		width: 150px;	
+	}
+	.NavLI6 a{
+		padding: 18px 0 18px 0;
+		width: 150px;
+	}
+	#CorporateSetting3{
+		width: 209%
+	}
+	.NewsContent{
+	  height: auto;
+	  width: 100%;
+	}
+	.NewsBackground{
+	  height: 220px;
+	  width: 220px;
+	}
+	.ImgText{
+	  font-size: 14px;
+	}
+	.ImgTextNone p{
+	  font-size: 12px;
+	}
+	.Secondslider__indicators {
+	  margin-top: -50px;
+	}
+	.Circles{
+		width: 200px; 
+		height:200px;
+		margin-top: 70px;
+	}
+	.Circles p{
+		bottom: 60%;
+		width: 200px;
+		font-size: 14px;
+	}
+	.ForUsContent{
+		height: 400px;
+	}
+}
+@media (max-width: 1024px){
+	#Buys{
+		width: auto;
+	}
+	.NewsBackground{
+	  height: 200px;
+	  width: 200px;
+	}
+	.Secondslider__indicators {
+	  margin-top: -60px;
+	}
+	.NavLI1 > a{
+		padding: 18px 0 18px 0;	
+		width: 120px;
+	}
+	.NavLI2 > a{
+		padding: 6px 0 6px 0;
+		width: 180px;
+	}
+	.NavLI3 > a{
+		padding: 6px 0 6px 0;
+		width: 180px;	
+	}
+	.NavLI4 > a{
+		padding: 18px 0 18px 0;
+		width: 120px;	
+	}
+	.NavLI5 > a{
+		padding: 18px 0 18px 0;
+		width: 120px;	
+	}
+	.NavLI6 a{
+		padding: 18px 0 18px 0;
+		width: 120px;
+	}
+	#CorporateSetting3{
+		width: 250%;
+	}
+	.AdvInformation li{
+		font-size: 16px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.LineLinks p{
+	  font-size: 16px;
+	}
+}
